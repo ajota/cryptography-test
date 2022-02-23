@@ -1,0 +1,9 @@
+
+POST https://criptopruebas.azurewebsites.net/WeatherForecast HTTP/1.1
+Content-Type: application/json
+
+# este body contiene un mensaje "hola"
+{
+    "input":
+    "n1jyUBqUXcj2PLj+pGuf/4tIWeRy0WGF/5+wl7iatM2zF9FH7DWhhAkaBYdtO35J0/SdBO++LaY76d12XVg8Y1AlTm0qUYrCh9KlSghMvLaNMuZ2V3oP3hm4oEaY+0DUb0x/znEzbTOKsXluXI7FBLWuBJSXQvLX/c0J9guiSBLV6IB8eZ+4omPxkoCAs20jEA+SMybofaCMXHLXI4LGaMFOletPpyS9cpZT+HaNFWvLjZSvr2M2UUIzWCNIhUJGDKvQZ+5pmjKPmP8nuXGLHcl8CJJiYCD09ASLAotywx8VKlVdsAbybhEU9UP9iBBO+/1q83hU/7QKMRLFARcYCA=="
+}
