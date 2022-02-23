@@ -1,10 +1,10 @@
 # Prueba de encriptacion del lado del cliente
 
-Proyecto de typescript trannspilado a javascript para navegador con parcel-bundler.
+Proyecto de typescript transpilado a javascript para navegador con **parcel-bundler**.
 
 ## Requisitos
 
-* node v14.15.0
+* **node** v14.15.0
 
 ## Uso
 
